@@ -13,7 +13,7 @@ Paste your homemade patterns, technical illustrations etc into the template. Use
 
 If you need more than 8 by 8 pages, what are you making? Let me know
 
-![](images/example.png)
+![](example.png)
 
 ## Prickly Gorse / MYOG tutorials Sewing Guides
 
